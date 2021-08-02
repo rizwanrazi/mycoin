@@ -1,0 +1,90 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="card_horizontal_margin">8dp</dimen>
+
+    <dimen name="editText_horizontal_margin">40dp</dimen>
+    <dimen name="editText_top_margin">20dp</dimen>
+
+    <dimen name="editText_profile_top_margin">20dp</dimen>
+
+
+    <dimen name="badge_count_textsize">10sp</dimen>
+
+
+    <dimen name="more_margin_left">15dp</dimen>
+
+    <dimen name="margin_left_right">27dp</dimen>
+    <dimen name="loading_bar_width_height">192dp</dimen>
+
+    <dimen name="top_logo_width">100dp</dimen>
+
+    <dimen name="edit_text_drawable_radius">10dp</dimen>
+
+
+    <!--genaral spacing-->
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+
+    <dimen name="nav_drawer_width">300dp</dimen>
+    <dimen name="logo_title_width">120dp</dimen>
+
+
+    <dimen name="menu_right">25dp</dimen>
+    <dimen name="menu_right_icon">32dp</dimen>
+    <dimen name="menu_item_height">48dp</dimen>
+    <dimen name="menu_divider_margin">12dp</dimen>
+    <dimen name="menu_margin_icon_text">8dp</dimen>
+    <dimen name="menu_text_item_padding_top">4dp</dimen>
+
+    <dimen name="ic_profile_height">80dp</dimen>
+
+    <dimen name="home_margin">20dp</dimen>
+
+
+    <dimen name="home_item_width">152dp</dimen>
+    <dimen name="home_item_height">206dp</dimen>
+    <dimen name="home_item_image_height">122dp</dimen>
+
+    <dimen name="home_item_action_height">20dp</dimen>
+
+    <dimen name="detail_margin">16dp</dimen>
+
+    <dimen name="detail_padding_divider">5dp</dimen>
+
+
+    <dimen name="tab_corner_radius">16dp</dimen>
+
+    <dimen name="detail_divider">20dp</dimen>
+
+    <dimen name="filter_margin">16dp</dimen>
+    <dimen name="filter_top_margin">20dp</dimen>
+    <dimen name="spinner_top_margin">5dp</dimen>
+
+    <dimen name="filter_height">44dp</dimen>
+    <dimen name="spinner_round">25dp</dimen>
+
+    <dimen name="otp_side_margin">32dp</dimen>
+
+    <dimen name="thank_screen_image_size">224dp</dimen>
+
+
+    <dimen name="editText_signup_top_margin">10dp</dimen>
+
+
+</resources>
